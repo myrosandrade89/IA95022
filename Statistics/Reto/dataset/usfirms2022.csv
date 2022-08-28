@@ -1,4 +1,4 @@
-﻿Ticker,Name,N,Class,"Country
+﻿firm,Name,N,Class,"Country
 of Origin",Type of Asset,"Sector NAICS
 level 1",Exchange / Src,"Sector
 Economatica","Sector NAICS
@@ -25,7 +25,7 @@ ATEN,"A10 Networks, Inc",19,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Co
 AAON,"Aaon, Inc",20,Com,US,Stock,Manufacturing,NASDAQ,Industrial Machin,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",-
 AIR,Aar Corp,21,Com,US,Stock,Manufacturing,NYSE,Vehicle & Parts,Aerospace Product and Parts Manufacturing,-
 ABT,Abbott Laboratories,22,Com,US,Stock,Manufacturing,NYSE,Chemical,Pharmaceutical and Medicine Manufacturing,0.583
-ABBV,Abbvie Inc,23,Com,US,Stock,Manufacturing,NYSE,Chemical,Pharmaceutical and Medicine Manufacturing,0.500
+ABBV,Abbvie Inc,23,Com,US,Stock,Manufacturing,NYSE,Chemical,Pharmaceutical and Medicine Manufacturing,0.5
 ABEO,Abeona Therapeutics Inc,24,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 ANF,Abercrombie & Fitch Co.,25,Com,US,Stock,Retail Trade,NYSE,Trade,Clothing Stores,-
 ABMD,"Abiomed, Inc",26,Com,US,Stock,Manufacturing,NASDAQ,Other,Medical Equipment and Supplies Manufacturing,0.042
@@ -51,7 +51,7 @@ ACU,Acme United Corp,45,Com,US,Stock,Manufacturing,AMEX,Basic & Fab Metal,Cutler
 ACNB,Acnb Corp,46,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 ACOR,"Acorda Therapeutics, Inc",47,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 ATNM,"Actinium Pharmaceuticals, Inc",48,Com,US,Stock,Manufacturing,AMEX,Chemical,Pharmaceutical and Medicine Manufacturing,-
-ATVI,"Activision Blizzard, Inc",49,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.160
+ATVI,"Activision Blizzard, Inc",49,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.16
 AYI,"Acuity Brands, Inc",50,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Electric Lighting Equipment Manufacturing,-
 ABOS,"Acumen Pharmaceuticals, Inc",51,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 ACXP,"Acurx Pharmaceuticals, Inc",52,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
@@ -70,7 +70,7 @@ ADBE,Adobe Inc,64,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publi
 ADT,ADT Inc,65,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Investigation and Security Services,-
 ATGE,Adtalem Global Education Inc,66,Com,US,Stock,Educational Services,NYSE,Other,Educational Services,-
 ADTN,Adtran Hldg Inc,67,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communications Equipment Manufacturing,-
-AAP,"Advance Auto Parts, Inc",68,Com,US,Stock,Retail Trade,NYSE,Trade,"Automotive Parts, Accessories, and Tire Stores",0.040
+AAP,"Advance Auto Parts, Inc",68,Com,US,Stock,Retail Trade,NYSE,Trade,"Automotive Parts, Accessories, and Tire Stores",0.04
 WMS,"Advanced Drainage Systems, Inc",69,Com,US,Stock,Manufacturing,NYSE,Other,Plastics Product Manufacturing,-
 AEIS,Advanced Energy Industries Inc,70,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communications Equipment Manufacturing,-
 AMD,"Advanced Micro Devices, Inc",71,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,0.377
@@ -90,7 +90,7 @@ AEMD,"Aethlon Medical, Inc",84,Com,US,Stock,Manufacturing,NASDAQ,Other,Medical E
 AFCG,"Afc Gamma, Inc",85,Com,US,Stock,Real Estate and Rental and Leasing,NASDAQ,Other,Real Estate,-
 AMG,"Affiliated Managers Group, Inc",86,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Other Financial Investment Activities,-
 AFRM,Affirm Hldg Inc,87,Com A,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Nondepository Credit Intermediation,-
-AFL,Aflac Inc,88,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.090
+AFL,Aflac Inc,88,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.09
 MITT,"Ag Mortgage Investment Trust, Inc",89,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 AGCO,Agco Corp,90,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Cutlery and Handtool Manufacturing,-
 UAVS,Ageagle Aerial Systems Inc,91,Com,US,Stock,Manufacturing,AMEX,Vehicle & Parts,Aerospace Product and Parts Manufacturing,-
@@ -126,7 +126,7 @@ ALRM,Alarm.Com Hldg Inc,120,Com,US,Stock,Information,NASDAQ,Software & Data,Soft
 ALK,"Alaska Air Group, Inc",121,Com,US,Stock,Transportation and Warehousing,NYSE,Transportat Serv,Scheduled Air Transportation,0.017
 ZIOP,"Alaunos Therapeutics, Inc",122,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 AIN,Albany Intl Corp,123,Com A,US,Stock,Manufacturing,NYSE,Textile,Fabric Mills,-
-ALB,Albemarle Corp,124,Com,US,Stock,Manufacturing,NYSE,Chemical,"Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing",0.070
+ALB,Albemarle Corp,124,Com,US,Stock,Manufacturing,NYSE,Chemical,"Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing",0.07
 ACI,"Albertsons Companies, Inc",125,Com,US,Stock,Retail Trade,NYSE,Trade,Grocery Stores,-
 ALBO,"Albireo Pharma, Inc",126,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 AA,Alcoa Corp,127,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Alumina and Aluminum Production and Processing,-
@@ -575,7 +575,7 @@ BKD,Brookdale Senior Living Inc,569,Com,US,Stock,Health Care and Social Assistan
 BIPC,Brookfield Infrastructure Corp,570,Com A,US,Stock,Utilities,NYSE,Oil & Gas,Natural Gas Distribution,-
 BRKL,Brookline Bancorp Inc,571,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 BTX,"Brooklyn Immunotherapeutics, Inc",572,Com,US,Stock,Manufacturing,AMEX,Chemical,Pharmaceutical and Medicine Manufacturing,-
-BRO,"Brown & Brown, Inc",573,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,"Agencies, Brokerages, and Other Insurance Related Activities",0.040
+BRO,"Brown & Brown, Inc",573,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,"Agencies, Brokerages, and Other Insurance Related Activities",0.04
 BF.B,Brown-Forman Corp,574,Com B,US,Stock,Manufacturing,NYSE,Food & Beverage,Beverage Manufacturing,0.033
 BRP,"Brp Group, Inc",575,Com A,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,"Agencies, Brokerages, and Other Insurance Related Activities",-
 BRT,Brt Apartments Corp,576,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
@@ -602,7 +602,7 @@ CBT,Cabot Corp,596,Com,US,Stock,Manufacturing,NYSE,Chemical,Other Chemical Produ
 CACI,Caci Intl Inc,597,Com,US,Stock,"Professional, Scientific, and Technical Services",NYSE,Software & Data,Computer Systems Design and Related Services,-
 WHD,"Cactus, Inc",598,Com A,US,Stock,Manufacturing,NYSE,Industrial Machin,"Agriculture, Construction, and Mining Machinery Manufacturing",-
 CADE,Cadence Bancorporation,599,Com A,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,-
-CDNS,"Cadence Design Systems, Inc",600,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.120
+CDNS,"Cadence Design Systems, Inc",600,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.12
 CDZI,Cadiz Inc,601,Com,US,Stock,Utilities,NASDAQ,Other,"Water, Sewage and Other Systems",-
 CDRE,Cadre Hldg Inc,602,Com,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,-
 CZR,"Caesars Entertainment, Inc",603,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Traveler Accommodation,0.061
@@ -689,7 +689,7 @@ CLSN,Celsion Corp,683,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical 
 CETX,"Cemtrex, Inc",684,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
 CNC,Centene Corp,685,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.105
 CDEV,"Centennial Resource Development, Inc",686,Com A,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NASDAQ,Oil & Gas,Oil and Gas Extraction,-
-CNP,Centerpoint Energy Inc,687,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.040
+CNP,Centerpoint Energy Inc,687,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.04
 CSR,Centerspace,688,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 CENTA,Central Garden & Pet Co,689,Com A,US,Stock,Wholesale Trade,NASDAQ,Trade,Miscellaneous Nondurable Goods Merchant Wholesalers,-
 CPF,Central Pacific Financial Corp,690,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,-
@@ -929,7 +929,7 @@ CFR,"Cullen/Frost Bankers, Inc",923,Com,US,Stock,Finance and Insurance,NYSE,Fina
 CGEM,"Cullinan Oncology, Inc",924,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 CULP,Culp Inc,925,Com,US,Stock,Manufacturing,NYSE,Textile,Fabric Mills,-
 CPIX,Cumberland Pharmaceuticals Inc,926,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
-CMI,Cummins Inc,927,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.090
+CMI,Cummins Inc,927,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.09
 CRIS,"Curis, Inc",928,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 CURO,Curo Group Hldg Corp,929,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Nondepository Credit Intermediation,-
 CW,Curtiss-Wright Corp,930,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,Commercial and Service Industry Machinery Manufacturing,-
@@ -939,7 +939,7 @@ CVBF,Cvb Financial Corp,933,Com,US,Stock,Finance and Insurance,NASDAQ,Finance an
 CVV,Cvd Equipment Corp,934,Com,US,Stock,Manufacturing,NASDAQ,Industrial Machin,Industrial Machinery Manufacturing,-
 CVI,"CVR Energy, Inc",935,Com,US,Stock,Manufacturing,NYSE,Oil & Gas,Petroleum and Coal Products Manufacturing,-
 CVRX,"Cvrx, Inc",936,Com,US,Stock,Manufacturing,NASDAQ,Other,Medical Equipment and Supplies Manufacturing,-
-CVS,CVS Health Corp,937,Com,US,Stock,Retail Trade,NYSE,Trade,Health and Personal Care Stores,0.300
+CVS,CVS Health Corp,937,Com,US,Stock,Retail Trade,NYSE,Trade,Health and Personal Care Stores,0.3
 CYAN,Cyanotech Corp,938,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 CYBE,Cyberoptics Corp,939,Com,US,Stock,Manufacturing,NASDAQ,Industrial Machin,Commercial and Service Industry Machinery Manufacturing,-
 CYCC,"Cyclacel Pharmaceuticals, Inc",940,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
@@ -964,7 +964,7 @@ DAIO,Data I/O Corp,958,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,"Navi
 DDOG,"Datadog, Inc",959,Com A,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
 DATS,"Datchat, Inc",960,Com,US,Stock,Information,NASDAQ,Telecommunication,Wired Telecommunications Carriers,-
 PLAY,"Dave & Buster’S Entertainment, Inc",961,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Restaurants and Other Eating Places,-
-DVA,Davita Inc,962,Com,US,Stock,Health Care and Social Assistance,NYSE,Other,Health Care and Social Assistance,0.020
+DVA,Davita Inc,962,Com,US,Stock,Health Care and Social Assistance,NYSE,Other,Health Care and Social Assistance,0.02
 DWSN,Dawson Geophysical Company,963,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NASDAQ,Mining,Support Activities for Mining,-
 DAWN,"Day One Biopharmaceuticals, Inc",964,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 DBTX,"Decibel Therapeutics, Inc",965,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
@@ -1088,7 +1088,7 @@ ECVT,Ecovyst Inc,1082,Com,US,Stock,Manufacturing,NYSE,Chemical,Chemical Manufact
 EPC,Edgewell Personal Care Company,1083,Com,US,Stock,Manufacturing,NYSE,Chemical,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",-
 EWTX,"Edgewise Therapeutics, Inc",1084,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 EGIO,"Edgio, Inc",1085,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,-
-EIX,Edison Intl,1086,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.060
+EIX,Edison Intl,1086,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.06
 EDIT,"Editas Medicine, Inc",1087,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 EDUC,Educational Development Corp,1088,Com,US,Stock,Wholesale Trade,NASDAQ,Trade,Miscellaneous Nondurable Goods Merchant Wholesalers,-
 EW,Edwards Lifesciences Corp,1089,Com,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,0.189
@@ -1118,7 +1118,7 @@ EME,"Emcor Group, Inc",1112,Com,US,Stock,Construction,NYSE,Construction,Building
 EMKR,Emcore Corp,1113,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
 EEX,"Emerald Holding, Inc",1114,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,-
 EBS,Emergent Biosolutions Inc,1115,Com,US,Stock,Manufacturing,NYSE,Chemical,Pharmaceutical and Medicine Manufacturing,-
-EMR,Emerson Electric Co.,1116,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Other Electrical Equipment and Component Manufacturing,0.150
+EMR,Emerson Electric Co.,1116,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Other Electrical Equipment and Component Manufacturing,0.15
 ESRT,"Empire State Realty Trust, Inc",1117,Com A,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 EIG,Employers Hldg Inc,1118,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,-
 ACT,Enact Hldg Inc,1119,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,"Agencies, Brokerages, and Other Insurance Related Activities",-
@@ -1212,10 +1212,10 @@ EXAS,Exact Sciences Corp,1206,Com,US,Stock,Health Care and Social Assistance,NAS
 XGN,Exagen Inc,1207,Com,US,Stock,Health Care and Social Assistance,NASDAQ,Other,Medical and Diagnostic Laboratories,-
 EE,"Excelerate Energy, Inc",1208,Com A,US,Stock,Utilities,NYSE,Oil & Gas,Natural Gas Distribution,-
 EXEL,"Exelixis, Inc",1209,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
-EXC,Exelon Corp,1210,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.130
+EXC,Exelon Corp,1210,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.13
 EXLS,Exlservice Hldg Inc,1211,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,-
 EXPI,Exp World Hldg Inc,1212,Com,US,Stock,Real Estate and Rental and Leasing,NASDAQ,Other,Lessors of Real Estate,-
-EXPE,"Expedia Group, Inc",1213,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Travel Arrangement and Reservation Services,0.060
+EXPE,"Expedia Group, Inc",1213,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Travel Arrangement and Reservation Services,0.06
 EXPD,"Expeditors Intl Of Washington, Inc",1214,Com,US,Stock,Transportation and Warehousing,NASDAQ,Transportat Serv,Freight Transportation Arrangement,0.054
 EXFY,"Expensify, Inc",1215,Com A,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
 XPON,Expion360 Inc,1216,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Other Electrical Equipment and Component Manufacturing,-
@@ -1254,7 +1254,7 @@ FGF,"Fg Financial Group, Inc",1248,Com,US,Stock,Finance and Insurance,NASDAQ,Fin
 FGI,Fgi Industries Ltd.,1249,Com,US,Stock,Manufacturing,NASDAQ,Industrial Machin,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",-
 FGEN,"Fibrogen, Inc",1250,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 FNF,"Fidelity National Financial, Inc",1251,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,-
-FIS,"Fidelity National Information Services, Inc",1252,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,0.200
+FIS,"Fidelity National Information Services, Inc",1252,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,0.2
 FRGI,"Fiesta Restaurant Group, Inc",1253,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Restaurants and Other Eating Places,-
 FITB,Fifth Third Bancorp,1254,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,0.082
 FIGS,"Figs, Inc",1255,Com A,US,Stock,Manufacturing,NYSE,Textile,Apparel Manufacturing,-
@@ -1286,7 +1286,7 @@ FIBK,"First Interstate Bancsystem, Inc",1280,Com A,US,Stock,Finance and Insuranc
 FRME,First Merchants Corp,1281,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 FMBH,"First Mid Bancshares, Inc",1282,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 FNWB,First Northwest Bancorp,1283,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
-FRC,First Republic Bank,1284,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.100
+FRC,First Republic Bank,1284,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.1
 FSFG,"First Savings Financial Group, Inc",1285,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 FSLR,"First Solar, Inc",1286,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
 FUNC,First United Corp,1287,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
@@ -1296,7 +1296,7 @@ FWBI,"First Wave Biopharma, Inc",1290,Com,US,Stock,Manufacturing,NASDAQ,Chemical
 MYFW,First Western Financial Inc,1291,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 FCFS,Firstcash Hldg Inc,1292,Com,US,Stock,Retail Trade,NASDAQ,Trade,Miscellaneous Store Retailers,-
 FE,Firstenergy Corp,1293,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.054
-FISV,"Fiserv, Inc",1294,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,0.170
+FISV,"Fiserv, Inc",1294,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,0.17
 FIVE,"Five Below, Inc",1295,Com,US,Stock,Retail Trade,NASDAQ,Trade,Other General Merchandise Stores,-
 FPH,Five Point Hldg Llc,1296,Com A,US,Stock,Real Estate and Rental and Leasing,NYSE,Other,Real Estate,-
 FSBC,Five Star Bancorp,1297,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
@@ -1421,7 +1421,7 @@ GBT,"Global Blood Therapeutics, Inc",1415,Com,US,Stock,Manufacturing,NASDAQ,Chem
 GIC,Global Industrial Company,1416,Com,US,Stock,Wholesale Trade,NYSE,Trade,"Machinery, Equipment, and Supplies Merchant Wholesalers",-
 GMRE,Global Medical Reit Inc,1417,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 GNL,"Global Net Lease, Inc",1418,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
-GPN,Global Payments Inc,1419,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,0.120
+GPN,Global Payments Inc,1419,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,0.12
 SELF,"Global Self Storage, Inc",1420,Com,US,Stock,Finance and Insurance,NASDAQ,Funds,Other Investment Pools and Funds,-
 GWRS,"Global Water Resources, Inc",1421,Com,US,Stock,Utilities,NASDAQ,Other,"Water, Sewage and Other Systems",-
 GFS,Globalfoundries Inc,1422,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
@@ -1489,7 +1489,7 @@ HRB,"H&R Block, Inc",1483,Com,US,Stock,Other Services (except Public Administrat
 HCKT,"Hackett Group, Inc",1484,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Other,"Management, Scientific, and Technical Consulting Services",-
 HAE,Haemonetics Corp,1485,Com,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,-
 HNRG,Hallador Energy Co,1486,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NASDAQ,Mining,Coal Mining,-
-HAL,Halliburton Company,1487,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NYSE,Mining,Support Activities for Mining,0.060
+HAL,Halliburton Company,1487,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NYSE,Mining,Support Activities for Mining,0.06
 HALL,"Hallmark Financial Services, Inc",1488,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Insurance Carriers,-
 HALO,"Halozyme Therapeutics, Inc",1489,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 HLNE,Hamilton Lane Inc,1490,Com A,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Other Financial Investment Activities,-
@@ -1507,7 +1507,7 @@ HROW,"Harrow Health, Inc",1501,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharma
 HSC,Harsco Corp,1502,Com,US,Stock,Other Services (except Public Administration),NYSE,Other,Other Services (except Public Administration),-
 HIG,"Hartford Financial Services Group, Inc",1503,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.067
 HBIO,Harvard Bioscience Inc,1504,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",-
-HAS,"Hasbro, Inc",1505,Com,US,Stock,Manufacturing,NASDAQ,Other,Other Miscellaneous Manufacturing,0.030
+HAS,"Hasbro, Inc",1505,Com,US,Stock,Manufacturing,NASDAQ,Other,Other Miscellaneous Manufacturing,0.03
 HCP,"Hashicorp, Inc",1506,Com A,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Software & Data,Computer Systems Design and Related Services,-
 HVT,"Haverty Furniture Companies, Inc",1507,Com,US,Stock,Manufacturing,NYSE,Other,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,-
 HE,Hawaiian Electric Industries Inc,1508,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",-
@@ -1822,7 +1822,7 @@ KROS,"Keros Therapeutics, Inc",1816,Com,US,Stock,Manufacturing,NASDAQ,Chemical,P
 KDP,Keurig Dr Pepper Inc,1817,Com,US,Stock,Manufacturing,NYSE,Food & Beverage,Beverage Manufacturing,-
 KEQU,Kewaunee Scientific Corp,1818,Com,US,Stock,Manufacturing,NASDAQ,Industrial Machin,Industrial Machinery Manufacturing,-
 KTCC,Key Tronic Corp,1819,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
-KEY,Keycorp,1820,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.060
+KEY,Keycorp,1820,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.06
 KEYS,"Keysight Technologies, Inc",1821,Com,US,Stock,Manufacturing,NYSE,Electric Electron,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",0.084
 KZR,"Kezar Life Sciences, Inc",1822,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 KFRC,Kforce Inc,1823,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Employment Services,-
@@ -1954,10 +1954,10 @@ LTHM,Livent Corp,1948,Com,US,Stock,Manufacturing,NYSE,Chemical,Chemical Manufact
 LPSN,"Liveperson, Inc",1949,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
 RAMP,Liveramp Hldg Inc,1950,Com,US,Stock,Information,NYSE,Software & Data,"Data Processing, Hosting, and Related Services",-
 LIXT,Lixte Biotechnology Hldg Inc,1951,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
-LKQ,LKQ Corp,1952,Com,US,Stock,Wholesale Trade,NASDAQ,Trade,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.040
+LKQ,LKQ Corp,1952,Com,US,Stock,Wholesale Trade,NASDAQ,Trade,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.04
 LL,Ll Flooring Hldg Inc,1953,Com,US,Stock,Retail Trade,NYSE,Trade,Building Material and Supplies Dealers,-
 LMPX,Lmp Automotive Hldg Inc,1954,Com,US,Stock,Retail Trade,NASDAQ,Trade,Retail Trade,-
-LMT,Lockheed Martin Corp,1955,Com,US,Stock,Manufacturing,NYSE,Vehicle & Parts,Aerospace Product and Parts Manufacturing,0.240
+LMT,Lockheed Martin Corp,1955,Com,US,Stock,Manufacturing,NYSE,Vehicle & Parts,Aerospace Product and Parts Manufacturing,0.24
 L,Loews Corp,1956,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.031
 LOGC,"Logicbio Therapeutics, Inc",1957,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 LGMK,"Logicmark, Inc",1958,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Investigation and Security Services,-
@@ -2032,7 +2032,7 @@ MKTX,Marketaxess Hldg Inc,2026,Com,US,Stock,Finance and Insurance,NASDAQ,Finance
 MRLN,Marlin Business Services Corp,2027,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 MRAI,"Marpai, Inc",2028,Com,US,Stock,Health Care and Social Assistance,NASDAQ,Other,Health Care and Social Assistance,-
 MQ,"Marqeta, Inc",2029,Com A,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
-MAR,Marriott Intl Inc,2030,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Traveler Accommodation,0.110
+MAR,Marriott Intl Inc,2030,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Traveler Accommodation,0.11
 VAC,Marriott Vacations Worldwide Corp,2031,Com,US,Stock,Real Estate and Rental and Leasing,NYSE,Other,Lessors of Real Estate,-
 MMC,"Marsh & Mclennan Companies, Inc",2032,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,"Agencies, Brokerages, and Other Insurance Related Activities",0.223
 MRTN,"Marten Transport, Ltd",2033,Com,US,Stock,Transportation and Warehousing,NASDAQ,Transportat Serv,General Freight Trucking,-
@@ -2106,7 +2106,7 @@ MFA,"MFA Financial, Inc",2100,Com,US,Stock,Finance and Insurance,NYSE,Funds,Othe
 MGEE,"Mge Energy, Inc",2101,Com,US,Stock,Utilities,NASDAQ,Electric Power,Utilities,-
 MTG,MGIC Investment Corp,2102,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,-
 MGP,MGM Growth Properties Llc,2103,Com A,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
-MGM,MGM Resorts Intl,2104,Com,US,Stock,Accommodation and Food Services,NYSE,Other,Traveler Accommodation,0.050
+MGM,MGM Resorts Intl,2104,Com,US,Stock,Accommodation and Food Services,NYSE,Other,Traveler Accommodation,0.05
 MGPI,"Mgp Ingredients, Inc",2105,Com,US,Stock,Wholesale Trade,NASDAQ,Trade,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",-
 MBOT,Microbot Medical Inc,2106,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 MCHP,Microchip Technology Inc,2107,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,0.107
@@ -2115,7 +2115,7 @@ MSFT,Microsoft Corp,2109,Com,US,Stock,Information,NASDAQ,Software & Data,Softwar
 MSTR,Microstrategy Inc,2110,Com A,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
 MVIS,"Microvision, Inc",2111,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communications Equipment Manufacturing,-
 MICT,"Mict, Inc",2112,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Semiconductor and Other Electronic Component Manufacturing,-
-MAA,Mid America Apartment Communities Inc,2113,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,0.060
+MAA,Mid America Apartment Communities Inc,2113,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,0.06
 MPB,"Mid Penn Bancorp, Inc",2114,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 MBCN,Middlefield Banc Corp,2115,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 MSEX,Middlesex Water Co,2116,Com,US,Stock,Utilities,NASDAQ,Other,"Water, Sewage and Other Systems",-
@@ -2167,7 +2167,7 @@ MORN,"Morningstar, Inc",2161,Com,US,Stock,Finance and Insurance,NASDAQ,Finance a
 MORF,"Morphic Holding, Inc",2162,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 MOS,Mosaic Co,2163,Com,US,Stock,Manufacturing,NYSE,Chemical,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",0.038
 MPAA,Motorcar Parts America Inc,2164,Com,US,Stock,Manufacturing,NASDAQ,Vehicle & Parts,Motor Vehicle Body and Trailer Manufacturing,-
-MSI,"Motorola Solutions, Inc",2165,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Communications Equipment Manufacturing,0.110
+MSI,"Motorola Solutions, Inc",2165,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Communications Equipment Manufacturing,0.11
 MSGM,Motorsport Games Inc,2166,Com A,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,-
 MOTS,Motus Gi Hldg Inc,2167,Com,US,Stock,Manufacturing,NASDAQ,Other,Medical Equipment and Supplies Manufacturing,-
 MOV,"Movado Group, Inc",2168,Com,US,Stock,Manufacturing,NYSE,Electric Electron,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",-
@@ -2259,7 +2259,7 @@ NXRT,"Nexpoint Residential Trust, Inc",2253,Com,US,Stock,Finance and Insurance,N
 NXST,"Nexstar Media Group, Inc",2254,Com A,US,Stock,Information,NASDAQ,Other,Radio and Television Broadcasting,-
 NXTC,"Nextcure, Inc",2255,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 NEXT,Nextdecade Corp,2256,Com,US,Stock,Utilities,NASDAQ,Oil & Gas,Natural Gas Distribution,-
-NEE,"Nextera Energy, Inc",2257,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.430
+NEE,"Nextera Energy, Inc",2257,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.43
 NXGN,"Nextgen Healthcare, Inc",2258,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Software & Data,Computer Systems Design and Related Services,-
 NEX,Nextier Oilfield Solutions Inc,2259,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NYSE,Mining,Support Activities for Mining,-
 NGM,"Ngm Biopharmaceuticals, Inc",2260,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
@@ -2292,7 +2292,7 @@ NWBI,"Northwest Bancshares, Inc",2286,Com,US,Stock,Finance and Insurance,NASDAQ,
 NWN,Northwest Natural Gas Company,2287,Com,US,Stock,Utilities,NYSE,Oil & Gas,Natural Gas Distribution,-
 NWPX,Northwest Pipe Co.,2288,Com,US,Stock,Manufacturing,NASDAQ,Basic & Fab Metal,Steel Product Manufacturing from Purchased Steel,-
 NWE,Northwestern Corp,2289,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",-
-NLOK,Nortonlifelock Inc,2290,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.040
+NLOK,Nortonlifelock Inc,2290,Com,US,Stock,Information,NASDAQ,Software & Data,Software Publishers,0.04
 NCLH,Norwegian Cruise Line Hldg Ltd.,2291,Com,US,Stock,Transportation and Warehousing,NASDAQ,Transportat Serv,Water Transportation,0.024
 NWFL,Norwood Financial Corp,2292,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 NOV,Nov Inc,2293,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,"Agriculture, Construction, and Mining Machinery Manufacturing",0.014
@@ -2389,7 +2389,7 @@ OCC,Optical Cable Corp,2383,Com,US,Stock,Manufacturing,NASDAQ,Basic & Fab Metal,
 OPHC,Optimumbank Hldg Inc,2384,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 OPTN,"Optinose, Inc",2385,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 OPCH,"Option Care Health, Inc",2386,Com,US,Stock,Health Care and Social Assistance,NASDAQ,Other,Home Health Care Services,-
-ORCL,Oracle Corp,2387,Com,US,Stock,Information,NYSE,Software & Data,Software Publishers,0.420
+ORCL,Oracle Corp,2387,Com,US,Stock,Information,NYSE,Software & Data,Software Publishers,0.42
 OGEN,"Oragenics, Inc",2388,Com,US,Stock,Manufacturing,AMEX,Chemical,Pharmaceutical and Medicine Manufacturing,-
 ORMP,Oramed Pharmaceuticals Inc,2389,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 OBT,"Orange County Bancorp, Inc",2390,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
@@ -2454,7 +2454,7 @@ PCYG,Park City Group Inc,2448,Com,US,Stock,Information,NASDAQ,Software & Data,"D
 PK,Park Hotels & Resorts Inc,2449,Com,US,Stock,Accommodation and Food Services,NYSE,Other,Traveler Accommodation,-
 PRK,Park National Corp,2450,Com,US,Stock,Finance and Insurance,AMEX,Finance and Insurance,Depository Credit Intermediation,-
 PKBK,"Parke Bancorp, Inc",2451,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
-PH,Parker-Hannifin Corp,2452,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Other Fabricated Metal Product Manufacturing,0.100
+PH,Parker-Hannifin Corp,2452,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Other Fabricated Metal Product Manufacturing,0.1
 PKOH,Park-Ohio Hldg Corp,2453,Com,US,Stock,Manufacturing,NASDAQ,Basic & Fab Metal,Forging and Stamping,-
 PSN,Parsons Corp,2454,Com,US,Stock,"Professional, Scientific, and Technical Services",NYSE,Software & Data,Computer Systems Design and Related Services,-
 PRTY,Party City Holdco Inc,2455,Com,US,Stock,Retail Trade,NYSE,Trade,Miscellaneous Store Retailers,-
@@ -2535,7 +2535,7 @@ PTY,Pimco Corporate & Income Opportunity Fund,2529,Com,US,Stock,Manufacturing,NY
 PEGY,Pineapple Energy Inc,2530,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communications Equipment Manufacturing,-
 PING,Ping Identity Holding Corp,2531,Com,US,Stock,Information,NYSE,Software & Data,Software Publishers,-
 PNFP,Pinnacle Financial Partners Inc,2532,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
-PNW,Pinnacle West Capital Corp,2533,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.020
+PNW,Pinnacle West Capital Corp,2533,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.02
 PINS,"Pinterest, Inc",2534,Com A,US,Stock,"Professional, Scientific, and Technical Services",NYSE,Software & Data,Computer Systems Design and Related Services,-
 PXD,Pioneer Natural Resources Co,2535,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NYSE,Oil & Gas,Oil and Gas Extraction,0.113
 PPSI,"Pioneer Power Solutions, Inc",2536,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Electrical Equipment Manufacturing,-
@@ -2573,7 +2573,7 @@ POWI,"Power Integrations, Inc",2567,Com,US,Stock,Manufacturing,NASDAQ,Electric E
 PW,Power Reit,2568,Com,US,Stock,Finance and Insurance,AMEX,Funds,Other Investment Pools and Funds,-
 PWFL,Powerfleet Inc,2569,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communications Equipment Manufacturing,-
 PWSC,Powerschool Hldg Inc,2570,Com A,US,Stock,Information,NYSE,Software & Data,Software Publishers,-
-PPG,PPG Industries Inc,2571,Com,US,Stock,Manufacturing,NYSE,Chemical,"Paint, Coating, and Adhesive Manufacturing",0.100
+PPG,PPG Industries Inc,2571,Com,US,Stock,Manufacturing,NYSE,Chemical,"Paint, Coating, and Adhesive Manufacturing",0.1
 PPL,PPL Corp,2572,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.058
 PRAA,"Pra Group, Inc",2573,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,-
 PRAX,"Praxis Precision Medicines, Inc",2574,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
@@ -2706,7 +2706,7 @@ REG,Regency Centers Corp,2700,Com,US,Stock,Finance and Insurance,NYSE,Funds,Othe
 REGN,"Regeneron Pharmaceuticals, Inc",2701,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,0.156
 RGNX,Regenxbio Inc,2702,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 RM,Regional Mngmt Corp,2703,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Nondepository Credit Intermediation,-
-RF,Regions Financial Corp,2704,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.060
+RF,Regions Financial Corp,2704,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.06
 RGS,Regis Corp,2705,Com,US,Stock,Other Services (except Public Administration),NYSE,Other,Personal and Laundry Services,-
 RGLS,Regulus Therapeutics Inc,2706,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 RGA,"Reinsurance Group Of America, Inc",2707,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,-
@@ -3014,7 +3014,7 @@ SMP,"Standard Motor Products, Inc",3008,Com,US,Stock,Manufacturing,NYSE,Vehicle 
 SXI,Standex Intl Corp,3009,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",-
 SWK,"Stanley Black & Decker, Inc",3010,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Cutlery and Handtool Manufacturing,0.079
 STRR,Star Equity Hldg Inc,3011,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",-
-SBUX,Starbucks Corp,3012,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Restaurants and Other Eating Places,0.350
+SBUX,Starbucks Corp,3012,Com,US,Stock,Accommodation and Food Services,NASDAQ,Other,Restaurants and Other Eating Places,0.35
 SCX,Starrett L S Co,3013,Com A,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Cutlery and Handtool Manufacturing,-
 SRT,"Startek, Inc",3014,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Employment Services,-
 STWD,"Starwood Property Trust, Inc",3015,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
@@ -3047,7 +3047,7 @@ STRS,Stratus Properties Inc,3041,Com,US,Stock,Construction,NASDAQ,Construction,L
 STRM,"Streamline Health Solutions, Inc",3042,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Software & Data,Computer Systems Design and Related Services,-
 LRN,"Stride, Inc",3043,Com,US,Stock,Educational Services,NYSE,Other,Educational Services,-
 SDIG,"Stronghold Digital Mining, Inc",3044,Com A,US,Stock,Information,NASDAQ,Software & Data,"Data Processing, Hosting, and Related Services",-
-SYK,Stryker Corp,3045,Com,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,0.240
+SYK,Stryker Corp,3045,Com,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,0.24
 RGR,"Sturm, Ruger & Company, Inc",3046,Com,US,Stock,Manufacturing,NYSE,Basic & Fab Metal,Other Fabricated Metal Product Manufacturing,-
 SPH,Suburban Propane Partners Lp,3047,Com,US,Stock,Retail Trade,NYSE,Trade,Miscellaneous Store Retailers,-
 SMMF,"Summit Financial Group, Inc",3048,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
@@ -3294,7 +3294,7 @@ SLCA,U.S. Silica Hldg Inc,3288,Com,US,Stock,"Mining, Quarrying, and Oil and Gas 
 UBER,"Uber Technologies, Inc",3289,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NYSE,Other,Business Support Services,-
 UI,Ubiquiti Inc,3290,Com,US,Stock,Manufacturing,NYSE,Electric Electron,Communications Equipment Manufacturing,-
 UDMY,"Udemy, Inc",3291,Com,US,Stock,Educational Services,NASDAQ,Other,Educational Services,-
-UDR,"UDR, Inc",3292,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,0.040
+UDR,"UDR, Inc",3292,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,0.04
 UFPI,"Ufp Industries, Inc",3293,Com,US,Stock,Manufacturing,NASDAQ,Other,Sawmills and Wood Preservation,-
 UFPT,Ufp Technologies Inc,3294,Com,US,Stock,Manufacturing,NASDAQ,Other,Medical Equipment and Supplies Manufacturing,-
 UGI,UGI Corp,3295,Com,US,Stock,Utilities,NYSE,Oil & Gas,Natural Gas Distribution,-
@@ -3306,7 +3306,7 @@ ULBI,Ultralife Corp,3300,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Oth
 UMBF,Umb Financial Corp,3301,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 UMH,"Umh Properties, Inc",3302,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 UMPQ,Umpqua Hldg Corp,3303,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
-UAA,"Under Armour, Inc",3304,Com A,US,Stock,Manufacturing,NYSE,Textile,Apparel Manufacturing,0.010
+UAA,"Under Armour, Inc",3304,Com A,US,Stock,Manufacturing,NYSE,Textile,Apparel Manufacturing,0.01
 UNAM,Unico American Corp,3305,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Insurance Carriers,-
 UNCY,"Unicycive Therapeutics, Inc",3306,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 UFI,"Unifi, Inc",3307,Com,US,Stock,Manufacturing,NYSE,Textile,Textile Mills,-
@@ -3359,7 +3359,7 @@ UONE,"Urban One, Inc",3353,Com A,US,Stock,Information,NASDAQ,Other,Radio and Tel
 URBN,"Urban Outfitters, Inc",3354,Com,US,Stock,Retail Trade,NASDAQ,Trade,Clothing Stores,-
 URG,Ur-Energy Inc,3355,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",AMEX,Mining,Metal Ore Mining,-
 UBA,Urstadt Biddle Properties Inc,3356,Com A,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
-USB,US Bancorp,3357,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.220
+USB,US Bancorp,3357,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.22
 ECOL,"US Ecology, Inc",3358,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Waste Treatment and Disposal,-
 USEG,US Energy Corp,3359,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NASDAQ,Oil & Gas,Oil and Gas Extraction,-
 USFD,US Foods Holding Corp,3360,Com,US,Stock,Wholesale Trade,NYSE,Trade,Grocery and Related Product Merchant Wholesalers,-
@@ -3404,7 +3404,7 @@ VCEL,Vericel Corp,3398,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical
 VRNT,Verint Systems Inc,3399,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Software & Data,Computer Systems Design and Related Services,-
 VRE,"Veris Residential, Inc",3400,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
 VRSN,Verisign Inc,3401,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Software & Data,Computer Systems Design and Related Services,0.055
-VRSK,"Verisk Analytics, Inc",3402,Com,US,Stock,Information,NASDAQ,Software & Data,"Data Processing, Hosting, and Related Services",0.090
+VRSK,"Verisk Analytics, Inc",3402,Com,US,Stock,Information,NASDAQ,Software & Data,"Data Processing, Hosting, and Related Services",0.09
 VBTX,Veritex Hldg Inc,3403,Com,US,Stock,Finance and Insurance,NASDAQ,Finance and Insurance,Depository Credit Intermediation,-
 VRTV,Veritiv Corp,3404,Com,US,Stock,Wholesale Trade,NYSE,Trade,Paper and Paper Product Merchant Wholesalers,-
 VERI,"Veritone, Inc",3405,Com,US,Stock,Information,NASDAQ,Software & Data,"Data Processing, Hosting, and Related Services",-
@@ -3475,13 +3475,13 @@ VUZI,Vuzix Corp,3469,Com,US,Stock,Manufacturing,NASDAQ,Electric Electron,Communi
 VYNT,"Vyant Bio, Inc",3470,Com,US,Stock,Health Care and Social Assistance,NASDAQ,Other,Medical and Diagnostic Laboratories,-
 WTI,"W&T Offshore, Inc",3471,Com,US,Stock,"Mining, Quarrying, and Oil and Gas Extraction",NYSE,Oil & Gas,Oil and Gas Extraction,-
 WPC,W. P. Carey Inc,3472,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,-
-WRB,W. R. Berkley Corp,3473,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.030
-GWW,"W.W. Grainger, Inc",3474,Com,US,Stock,Wholesale Trade,NYSE,Trade,"Merchant Wholesalers, Durable Goods",0.050
+WRB,W. R. Berkley Corp,3473,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Insurance Carriers,0.03
+GWW,"W.W. Grainger, Inc",3474,Com,US,Stock,Wholesale Trade,NYSE,Trade,"Merchant Wholesalers, Durable Goods",0.05
 WNC,Wabash National Corp,3475,Com,US,Stock,Manufacturing,NYSE,Vehicle & Parts,Motor Vehicle Body and Trailer Manufacturing,-
 WTRH,Waitr Hldg Inc,3476,Com,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,-
 WBA,"Walgreens Boots Alliance, Inc",3477,Com,US,Stock,Retail Trade,NASDAQ,Trade,Health and Personal Care Stores,0.091
 WD,"Walker & Dunlop, Inc",3478,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Finance and Insurance,-
-WMT,Walmart Inc,3479,Com,US,Stock,Retail Trade,NYSE,Trade,Other General Merchandise Stores,0.550
+WMT,Walmart Inc,3479,Com,US,Stock,Retail Trade,NYSE,Trade,Other General Merchandise Stores,0.55
 DIS,Walt Disney Co,3480,Com,US,Stock,"Arts, Entertainment, and Recreation",NYSE,Other,Other Amusement and Recreation Industries,0.799
 WRBY,Warby Parker Inc,3481,Com A,US,Stock,Manufacturing,NYSE,Other,Medical Equipment and Supplies Manufacturing,-
 WBD,"Warner Bros. Discovery, Inc",3482,Com,US,Stock,Information,NASDAQ,Other,Cable and Other Subscription Programming,0.011
@@ -3503,7 +3503,7 @@ WBS,Webster Financial Corp,3497,Com,US,Stock,Finance and Insurance,NYSE,Finance 
 WEC,"Wec Energy Group, Inc",3498,Com,US,Stock,Utilities,NYSE,Electric Power,"Electric Power Generation, Transmission and Distribution",0.075
 WMK,"Weis Markets, Inc",3499,Com,US,Stock,Retail Trade,NYSE,Trade,Grocery Stores,-
 WBT,"Welbilt, Inc",3500,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",-
-WFC,Wells Fargo & Company,3501,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.540
+WFC,Wells Fargo & Company,3501,Com,US,Stock,Finance and Insurance,NYSE,Finance and Insurance,Depository Credit Intermediation,0.54
 WELL,Welltower Inc,3502,Com,US,Stock,Finance and Insurance,NYSE,Funds,Other Investment Pools and Funds,0.088
 HOWL,"Werewolf Therapeutics, Inc",3503,Com,US,Stock,Manufacturing,NASDAQ,Chemical,Pharmaceutical and Medicine Manufacturing,-
 WERN,"Werner Enterprises, Inc",3504,Com,US,Stock,Transportation and Warehousing,NASDAQ,Transportat Serv,General Freight Trucking,-
@@ -3534,7 +3534,7 @@ WYY,Widepoint Corp,3528,Com,US,Stock,"Professional, Scientific, and Technical Se
 WHLM,"Wilhelmina Intl, Inc",3529,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Other,"Management, Scientific, and Technical Consulting Services",-
 WVVI,"Willamette Valley Vineyards, Inc",3530,Com,US,Stock,Manufacturing,NASDAQ,Food & Beverage,Beverage Manufacturing,-
 WLDN,"Willdan Group, Inc",3531,Com,US,Stock,"Professional, Scientific, and Technical Services",NASDAQ,Other,"Architectural, Engineering, and Related Services",-
-WMB,"Williams Companies, Inc",3532,Com,US,Stock,Transportation and Warehousing,NYSE,Oil & Gas,Pipeline Transportation of Natural Gas,0.090
+WMB,"Williams Companies, Inc",3532,Com,US,Stock,Transportation and Warehousing,NYSE,Oil & Gas,Pipeline Transportation of Natural Gas,0.09
 WSM,"Williams-Sonoma, Inc",3533,Com,US,Stock,Retail Trade,NYSE,Trade,Furniture and Home Furnishings Stores,-
 WLFC,Willis Lease Finance Corp,3534,Com,US,Stock,Wholesale Trade,NASDAQ,Trade,"Machinery, Equipment, and Supplies Merchant Wholesalers",-
 WSC,Willscot Mobile Mini Hldg Corp,3535,Com A,US,Stock,Administrative and Support and Waste Management and Remediation Services,NASDAQ,Other,Business Support Services,-
@@ -3577,7 +3577,7 @@ XPO,"Xpo Logistics, Inc",3571,Com,US,Stock,Administrative and Support and Waste 
 XPOF,"Xponential Fitness, Inc",3572,Com A,US,Stock,"Arts, Entertainment, and Recreation",NYSE,Other,Other Amusement and Recreation Industries,-
 XSPA,"Xpresspa Group, Inc",3573,Com,US,Stock,Other Services (except Public Administration),NASDAQ,Other,Personal and Laundry Services,-
 XTNT,Xtant Medical Hldg Inc,3574,Com,US,Stock,Manufacturing,AMEX,Chemical,Pharmaceutical and Medicine Manufacturing,-
-XYL,Xylem Inc,3575,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,Other General Purpose Machinery Manufacturing,0.060
+XYL,Xylem Inc,3575,Com,US,Stock,Manufacturing,NYSE,Industrial Machin,Other General Purpose Machinery Manufacturing,0.06
 YELL,Yellow Corp,3576,Com,US,Stock,Transportation and Warehousing,NASDAQ,Transportat Serv,General Freight Trucking,-
 YELP,Yelp Inc,3577,Com,US,Stock,Other Services (except Public Administration),NYSE,Other,Personal and Laundry Services,-
 YETI,Yeti Hldg Inc,3578,Com,US,Stock,Manufacturing,NYSE,Other,Other Miscellaneous Manufacturing,-
